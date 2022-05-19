@@ -1,0 +1,245 @@
+2022-05-18 23:05:73 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-18 23:05:412 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-18 23:05:865 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-18 23:05:623 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-18 23:05:96 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-18 23:05:980 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-18 23:05:989 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-18 23:05:337 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-18 23:05:815 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-18 23:05:440 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-18 23:05:292 INFO  HomePage :38 - Mouse hover on buy and sell : buy + sell
+2022-05-18 23:05:542 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-18 23:05:623 INFO  HomePage :38 - Mouse hover on buy and sell : buy + sell
+2022-05-18 23:05:988 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-18 23:05:561 INFO  HomePage :38 - Mouse hover on buy and sell : buy + sell
+2022-05-18 23:05:131 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-18 23:05:938 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-18 23:05:347 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-18 23:05:484 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-18 23:05:606 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-18 23:05:97 INFO  HomePage :34 - mouse hover on buy+sell tab[[ChromeDriver: chrome on WINDOWS (8980a849ee298a53c33c7705c8716f92)] -> xpath: //a[normalize-space()='buy + sell']]
+2022-05-18 23:05:585 INFO  HomePage :39 - clicking on search cars link [[ChromeDriver: chrome on WINDOWS (8980a849ee298a53c33c7705c8716f92)] -> xpath: //a[normalize-space()='Search Cars']]
+2022-05-18 23:05:200 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-18 23:05:418 INFO  HomePage :34 - mouse hover on buy+sell tab[[ChromeDriver: chrome on WINDOWS (73606248a9cb8b523356df43f787d884)] -> xpath: //a[normalize-space()='buy + sell']]
+2022-05-18 23:05:914 INFO  HomePage :39 - clicking on search cars link [[ChromeDriver: chrome on WINDOWS (73606248a9cb8b523356df43f787d884)] -> xpath: //a[normalize-space()='Search Cars']]
+2022-05-19 16:05:383 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-19 16:05:799 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-19 16:05:348 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-19 16:05:444 INFO  HomePage :37 - Mouse hover on buy+sell tab : buy + sell
+2022-05-19 16:05:652 INFO  HomePage :42 - Click on search car : Search Cars
+2022-05-19 16:05:300 INFO  NewAndUsedCarPage :46 -  get title text of New and used car search pageNew & Used Car Search - carsguide
+2022-05-19 16:05:580 INFO  NewAndUsedCarPage :52 - select care from the drop down :Tesla          Any Make
+                                  Alfa Romeo
+                                  Audi
+                                  BMW
+                                  Ford
+                                  Holden
+                                  Honda
+                                  Hyundai
+                                  Isuzu
+                                  Jeep
+                                  Kia
+                                  Land Rover
+                                  Mazda
+                                  Mercedes-Benz
+                                  Mitsubishi
+                                  Nissan
+                                  Peugeot
+                                  Renault
+                                  Subaru
+                                  Suzuki
+                                  Toyota
+                                  Volkswagen
+                                  Volvo
+                    ----------------------
+                                    Abarth
+                                                Alfa Romeo
+                                                Alpine
+                                                Aprilia
+                                                Aston Martin
+                                                Audi
+                                                Austin
+                                                Austin Healey
+                                                                      BMW Alpina
+                                                BYD
+                                                Bentley
+                                                Buick
+                                                Cadillac
+                                                Caterham
+                                                Chery
+                                                Chevrolet
+                                                Chrysler
+                                                Citroen
+                                                Daewoo
+                                                Daihatsu
+                                                Daimler
+                                                Datsun
+                                                Dodge
+                                                FPV
+                                                Ferrari
+                                                Fiat
+                                                Ford
+                                                Foton
+                                                GMC
+                                                GMC 2500 HD LTZ
+                                                GWM
+                                                Geely
+                                                Genesis
+                                                Great Wall
+                                                HSV
+                                                Haval
+                                                Hino
+                                                Holden
+                                                Holden HDT
+                                                Honda
+                                                Hummer
+                                                Hyundai
+                                                Infiniti
+                                                International
+                                                Isuzu
+                                                Iveco
+                                                JMC
+                                                Jaguar
+                                                Jeep
+                                                Kia
+                                                LDV
+                                                Lamborghini
+                                                Lancia
+                                                Land Rover
+                                                Lexus
+                                                Leyland
+                                                Lincoln
+                                                Lotus
+                                                MG
+                                                MY16 Mercedes-Benz
+                                                Mahindra
+                                                Maserati
+                                                Mazda
+                                                McLaren
+                                                Mercedes-Benz
+                                                Mini
+                                                Mitsubishi
+                                                Mitsuoka Motor
+                                                Mk 1 Fibre Fab Rat
+                                                Morgan
+                                                Morris
+                                                Nissan
+                                                Oldsmobile
+                                                Opel
+                                                Other
+                                                Peugeot
+                                                Polestar
+                                                Pontiac
+                                                Porsche
+                                                Proton
+                                                RAM Trucks
+                                                Ram
+                                                Renault
+                                                Rolls-Royce
+                                                Rover
+                                                Saab
+                                                Sea-Doo
+                                                Skoda
+                                                Smart
+                                                Ssangyong
+                                                Subaru
+                                                Suzuki
+                                                TVR
+                                                Tata
+                                                Tesla
+                                                Toyota
+                                                Triumph
+                                                Volkswagen
+                                                Volvo
+                                                Willys
+                                                Wolseley
+                              <br>
+2022-05-19 16:05:888 INFO  NewAndUsedCarPage :58 - select any model from drop down : Model 3Any Model<br>
+2022-05-19 16:05:591 INFO  NewAndUsedCarPage :64 - select any model from drop down : NSW - All          Any Location
+                      ACT - All
+                      NSW - All
+                      NSW - Central Coast
+                      NSW - Central West
+                      NSW - Far North Coast
+                      NSW - Far West
+                      NSW - Hunter
+                      NSW - Illawarra
+                      NSW - Mid North Coast
+                      NSW - New England
+                      NSW - Newcastle
+                      NSW - Riverina
+                      NSW - South Coast
+                      NSW - Sydney
+                      NT - All
+                      NT - North
+                      NT - South
+                      QLD - All
+                      QLD - Brisbane
+                      QLD - Central Coast
+                      QLD - Central West
+                      QLD - Far North
+                      QLD - Gold Coast
+                      QLD - South West
+                      QLD - Sunshine Coast
+                      QLD - Townsville
+                      SA - Adelaide
+                      SA - All
+                      SA - Barossa Valley
+                      SA - Eyre Peninsula
+                      SA - Murray
+                      SA - North
+                      SA - South
+                      SA - South East
+                      SA - York Peninsula
+                      TAS - All
+                      TAS - North
+                      TAS - South
+                      VIC - All
+                      VIC - Central Victoria
+                      VIC - Geelong
+                      VIC - Gippsland
+                      VIC - Melbourne
+                      VIC - Northern
+                      VIC - South Western
+                      VIC - Wimmera Mallee
+                      WA - All
+                      WA - Country East
+                      WA - North Coast
+                      WA - Perth
+                      WA - Pilbara Kimberley
+                      WA - South West Coast
+                  <br>
+2022-05-19 16:05:901 INFO  NewAndUsedCarPage :70 - select any model from drop down : $150,000          Price (max)
+                      $1,000
+                      $2,000
+                      $2,500
+                      $3,000
+                      $5,000
+                      $7,500
+                      $10,000
+                      $15,000
+                      $20,000
+                      $25,000
+                      $30,000
+                      $35,000
+                      $40,000
+                      $45,000
+                      $50,000
+                      $60,000
+                      $70,000
+                      $80,000
+                      $90,000
+                      $100,000
+                      $150,000
+                      $200,000
+                  <br>
+2022-05-19 16:05:117 INFO  NewAndUsedCarPage :76 - select any model from drop down : 
+2022-05-19 16:05:142 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-19 16:05:921 INFO  HomePage :37 - Mouse hover on buy+sell tab : buy + sell
+2022-05-19 16:05:271 INFO  HomePage :42 - Click on search car : Search Cars
+2022-05-19 16:05:968 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-19 16:05:216 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-19 16:05:360 INFO  HomePage :37 - Mouse hover on buy+sell tab : buy + sell
+2022-05-19 16:05:668 INFO  ManageDriver :32 - Launching Chrome Browser
+2022-05-19 16:05:74 INFO  ManageDriver :32 - Launching Chrome Browser
